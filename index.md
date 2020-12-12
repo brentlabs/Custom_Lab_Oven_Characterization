@@ -16,7 +16,11 @@ For a detailed description of how the Controleo3 tunes itself and the criteria f
 
 Our oven score:
 
+
+
 ![Oven score](https://github.com/brentlabs/brentlabs/blob/gh-pages/ovenscore_temp.png?raw=true)
+
+
 
 To summarize, this indicates...
 

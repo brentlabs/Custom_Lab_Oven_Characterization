@@ -1,4 +1,4 @@
-[Test](#test)
+[Test](#2.-test)
 
 # Custom Lab Oven: Build and Characterization
 
@@ -108,4 +108,4 @@ f
 
 
 
-### Test
+### 2. Test

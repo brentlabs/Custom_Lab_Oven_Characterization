@@ -1,4 +1,4 @@
-[Test](#Custom-Lab-Oven)
+[Test](#Temperature-Labels)
 
 # Custom Lab Oven: Build and Characterization
 

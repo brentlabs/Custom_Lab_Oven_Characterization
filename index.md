@@ -1,6 +1,6 @@
 # Custom Lab Oven Build and Characterization
 
-To complete high temperature laboratory experiments, [http://www.ece.ualberta.ca/~iyer/lab.html]http://www.ece.ualberta.ca/~iyer/lab.html required a custom uniform heating solution. Utilizing the build techniques and components found at [Whizoo.com]https://Whizoo.com, a regular toaster oven was outfit with better sealing, insulation, and control (using the Controleo3).
+To complete high temperature laboratory experiments, [our lab](http://www.ece.ualberta.ca/~iyer/lab.html) required a custom uniform heating solution. Utilizing the build techniques and components found at [Whizoo.com](https://Whizoo.com), a regular toaster oven was outfit with better sealing, insulation, and control (using the Controleo3).
 
 Being a custom tool, it is important to characterize performance. This website will serve as reference.
 

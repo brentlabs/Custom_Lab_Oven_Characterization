@@ -1,10 +1,8 @@
-[Test](#2.-test)
-
 # Custom Lab Oven: Build and Characterization
 
 To complete high temperature laboratory experiments, [our lab](http://www.ece.ualberta.ca/~iyer/lab.html) required a custom uniform heating solution. Utilizing the build techniques and components found at [Whizoo.com](https://Whizoo.com), a regular toaster oven was outfit with better sealing, insulation, and control (using the Controleo3).
 
-Being a custom-built tool rather than a commercial product, it is important to characterize it's performance. This website will serve as reference.
+Being a custom-built tool rather than a commercial product, it is important to [characterize](#characterization) it's performance. This website will serve as reference.
 
 ## The Build
 
@@ -28,84 +26,3 @@ To summarize, this indicates...
 
 ### 2. Temperature Labels
 Using 5-point temperature labels...
-
-
-
-
-
-
-
-
-
-a
-
-b
-
-c
-
-d
-
-e
-
-f
-
-g
-
-h
-
-i
-
-j
-
-k
-
-l
-
-m
-
-n
-
-o
-
-p
-
-q
-
-r
-
-s
-
-t
-
-u
-
-v
-
-w
-
-x
-
-y
-
-z
-
-f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 2. Test

@@ -15,7 +15,7 @@ TEST TEST TEST
 For a detailed description of how the Controleo3 tunes itself and the criteria for the oven score, please see [Whizoo.com](https://Whizoo.com/intelligent).
 
 Our oven score:
-![Oven score](https://brentlabs.github.com/images/yaktocat.png)
+![Oven score](https://brentlabs.github.com/ovenscore_temp.png)
 To summarize, this indicates...
 
 ### 2. Temperature Labels

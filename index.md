@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+# Custom Lab Oven Build and Characterization
 
-You can use the [editor on GitHub](https://github.com/brentlabs/brentlab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To complete high temperature laboratory experiments, [our lab]http://www.ece.ualberta.ca/~iyer/lab.html required a custom uniform heating solution. Utilizing the build techniques and components found at [Whizoo.com]https://Whizoo.com, a regular toaster oven was outfit with better sealing, insulation, and control (using the Controleo3).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Being a custom tool, it is important to characterize performance. This website will serve as reference.
 
-### Markdown
+## The Build
 
 TEST TEST TEST
+
+## Characterization
+
+### Temperature Labels
+Using 5-point temperature labels...
 
 ```markdown
 Syntax highlighted code block

@@ -42,7 +42,7 @@ The oven door in particular is subject to heat loss through the glass. To mitiga
 Floor and Tunnel Shield II was applied to the interior bottom, top, and back of the oven - another tactic to mitigate heat loss. Once the bottom shielding was in-place, a 350W boost element could be installed.
 
 
-![Boost Flr_Shield](https://github.com/brentlabs/brentlabs/blob/gh-pages/7_boost_flr_shield.jpg?raw=true)
+![Boost_Flr_Shield](https://github.com/brentlabs/brentlabs/blob/gh-pages/7_boost_flr_shld.jpg?raw=true)
 
 ### 7. Fixing SSR Assembly and Thermocouple Install
 The SSR assembly from step 3 was bolted to the bottom of the oven. There is a gap between the sidewall of the oven and the aluminum plate that the SSR are fixed to in order to accomodate cables and ceramic fiber insulation in a later step. Additionally, a thermocouple was installed into the oven (white cable with blue stripes) and fixed in-place by sealing it with the silicone sealant as in step 1. Similarly, the wires of the boost element were sealed as well, helping prevent heat loss through the hole they are fed through and fixing them (and thus, the element) from moving.

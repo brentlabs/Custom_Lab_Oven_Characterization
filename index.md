@@ -50,6 +50,28 @@ The SSR assembly from step 3 was bolted to the bottom of the oven. There is a ga
 
 ![SSR_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/8_ssr_mounted.jpg?raw=true)
 
+### 8. AC and DC Wiring
+The high voltage wiring was completed by re-using wires from the original oven components. These correspond to the top SRR inputs. Not shown: The Controleo3 was wired with 4 inputs- one from each SRR, and a common input to all of them. The wires from the 5V DC power supply in step 4 were also connected to the microcontroller, as were the thermocouple leads.
+
+
+![AC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/9_ac_wiring.jpg?raw=true)
+![DC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/10_dc_wiring.jpg?raw=true)
+
+### 9. Mounting and Basic Test of Controleo3
+The Controleo3, now wired and fixed in its enclosure as prepared in step 2, was mounted to the front of the oven without obstructing the door. With all wiring done and hardware mounted, it was time to test the system. Plugging the oven in, the Controleo3 started and offered its menu. 'Test' was selected, and each element was tested independently and verified to be working.
+
+
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
+
+### 10. Access Ports
+This is where we deviate from the Whizoo guide. Our oven requires access ports for data cables. To ensure a smooth run for the cable between inside and outside the oven, we use 1/2" copper pipe which was perforated to reduce its thermal mass (we don't want too much loss to escape the interior through the pipe). Large holes had to be drilled/nibbled (using a nibbling tool) in the walls of the oven, through the SRR aluminum plate, and the outer chassis.
+
+
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
+
+### 11. Ceramic Fiber Insulation 
+Ceramic fiber insulation is wrapped around the outside of the 
 
 ## Characterization
 Characterization of oven performance is done through the software of the Controleo3 itself, and independently using temperature labels distributed throughout the oven.

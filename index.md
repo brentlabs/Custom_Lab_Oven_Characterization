@@ -11,8 +11,8 @@ Our build was very similar to the one depicted at [Whizoo.com](https://www.whizo
 The outer case was removed and the interior and exterior cracks were sealed using a silicone sealant rated for °C. The elements themselves were quite loose, so the sealant fixed them in-place. This is one of several steps to mitigate heat loss from the interior of the oven.
 
 
-![Inner Seal](https://github.com/brentlabs/brentlabs/blob/gh-pages/2_inner_seal.jpg?raw=true)
-![Outer Seal](https://github.com/brentlabs/brentlabs/blob/gh-pages/1_outer_seal.jpg?raw=true)
+![Inner Seal](https://github.com/brentlabs/brentlabs/blob/gh-pages/2_inner_seal.png?raw=true)
+![Outer Seal](https://github.com/brentlabs/brentlabs/blob/gh-pages/1_outer_seal.png?raw=true)
 
 ### 2. Controleo3 Case Assembly
 While the sealant of the previous step dried, the Controleo3 case was assembled. This involved some drilling and bending of a small aluminum sheet (this is how the case will attach to the oven later).

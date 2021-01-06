@@ -18,57 +18,57 @@ The outer case was removed and the interior and exterior cracks were sealed usin
 While the sealant of the previous step dried, the Controleo3 case was assembled. This involved some drilling and bending of a small aluminum sheet (this is how the case will attach to the oven later).
 
 
-![Cont Case](https://github.com/brentlabs/brentlabs/blob/gh-pages/3_cont_case.jpg?raw=true)
+![Cont Case](https://github.com/brentlabs/brentlabs/blob/gh-pages/3_cont_case.png?raw=true)
 
 ### 3. Relay Setup
 Three solid state relays (SSR) were backed with a thermally-conductive pad (the blue stuff) and fixed to an aluminum plate, which will act as a heatsink. These interface the AC with the DC (microcontroller) and allow each element of the build to be controlled independently. There is one SSR for each element: the boost element (will be added in another step), the bottom, and the top. 
 
 
-![SSR](https://github.com/brentlabs/brentlabs/blob/gh-pages/4_ssr.jpg?raw=true)
+![SSR](https://github.com/brentlabs/brentlabs/blob/gh-pages/4_ssr.png?raw=true)
 
 ### 4. Preparing the DC Power Supply
 Wire was stripped, ends crimped, and heat shrink tubing applied. This power supply (PS) will be mounted inside the oven alongside the SSR assembly. It simply powers the Controleo3 with its 5V output.
 
 
-![DC PS](https://github.com/brentlabs/brentlabs/blob/gh-pages/5_dc_ps.jpg?raw=true)
+![DC PS](https://github.com/brentlabs/brentlabs/blob/gh-pages/5_dc_ps.png?raw=true)
 
 ### 5. Applying Heat Reflective Tape
 The oven door in particular is subject to heat loss through the glass. To mitigate this loss, high quality Reflect-A-Gold tape is applied. This works by reflecting radiant heat. While not shown in the below photo, additional tape was applied inside the oven.
 
 
-![Gold Tape](https://github.com/brentlabs/brentlabs/blob/gh-pages/6_gold_tape.jpg?raw=true)
+![Gold Tape](https://github.com/brentlabs/brentlabs/blob/gh-pages/6_gold_tape.png?raw=true)
 
 ### 6. Installation of Floor Shield and Boost Element
 Floor and Tunnel Shield II was applied to the interior bottom, top, and back of the oven - another tactic to mitigate heat loss. Once the bottom shielding was in-place, a 350W boost element could be installed.
 
 
-![Boost_Flr_Shield](https://github.com/brentlabs/brentlabs/blob/gh-pages/7_boost_flr_shld.jpg?raw=true)
+![Boost_Flr_Shield](https://github.com/brentlabs/brentlabs/blob/gh-pages/7_boost_flr_shld.png?raw=true)
 
 ### 7. Fixing SSR Assembly and Thermocouple Install
 The SSR assembly from step 3 was bolted to the bottom of the oven. There is a gap between the sidewall of the oven and the aluminum plate that the SSR are fixed to in order to accomodate cables and ceramic fiber insulation in a later step. Additionally, a thermocouple was installed into the oven (white cable with blue stripes) and fixed in-place by sealing it with the silicone sealant as in step 1. Similarly, the wires of the boost element were sealed as well, helping prevent heat loss through the hole they are fed through and fixing them (and thus, the element) from moving.
 
 
-![SSR_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/8_ssr_mounted.jpg?raw=true)
+![SSR_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/8_ssr_mounted.png?raw=true)
 
 ### 8. AC and DC Wiring
 The high voltage wiring was completed by re-using wires from the original oven components. These correspond to the top SRR inputs. Not shown: The Controleo3 was wired with 4 inputs- one from each SRR, and a common input to all of them. The wires from the 5V DC power supply in step 4 were also connected to the microcontroller, as were the thermocouple leads.
 
 
-![AC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/9_ac_wiring.jpg?raw=true)
-![DC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/10_dc_wiring.jpg?raw=true)
+![AC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/9_ac_wiring.png?raw=true)
+![DC_Wiring](https://github.com/brentlabs/brentlabs/blob/gh-pages/10_dc_wiring.png?raw=true)
 
 ### 9. Mounting and Basic Test of Controleo3
 The Controleo3, now wired and fixed in its enclosure as prepared in step 2, was mounted to the front of the oven without obstructing the door. With all wiring done and hardware mounted, it was time to test the system. Plugging the oven in, the Controleo3 started and offered its menu. 'Test' was selected, and each element was tested independently and verified to be working.
 
 
-![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
 
 ### 10. Access Ports
 This is where we deviate from the Whizoo guide. Our oven requires access ports for data cables. To ensure a smooth run for the cable between inside and outside the oven, we use 1/2" copper pipe which was perforated to reduce its thermal mass (we don't want too much loss to escape the interior through the pipe). Large holes had to be drilled/nibbled (using a nibbling tool) in the walls of the oven, through the SRR aluminum plate, and the outer chassis.
 
 
-![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
-![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.jpg?raw=true)
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
+![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
 
 ### 11. Ceramic Fiber Insulation 
 Ceramic fiber insulation is wrapped around the outside of the 

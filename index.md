@@ -101,7 +101,7 @@ Once the build guide had been satisfied, the learning cycle was performed to ...
 Our oven score:
 
 
-![Oven score](https://github.com/brentlabs/brentlabs/blob/gh-pages/ovenscore.png?raw=true)
+![Oven Score](https://github.com/brentlabs/brentlabs/blob/gh-pages/x_ovenscore.png?raw=true)
 
 ## Characterization
 Characterization of oven performance is done through the software of the Controleo3 itself, and independently using temperature labels distributed throughout the oven.

@@ -109,7 +109,7 @@ Characterization of oven performance is done through the software of the Control
 ### 1. Controleo3 Intelligent Tuning and Oven Score
 For a detailed description of how the Controleo3 tunes itself and the criteria for the oven score, please see [Whizoo.com](https://Whizoo.com/intelligent).
 
-Our oven score:
+Whizoo build oven score:
 
 
 

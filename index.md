@@ -64,14 +64,44 @@ The Controleo3, now wired and fixed in its enclosure as prepared in step 2, was 
 ![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
 
 ### 10. Access Ports
-This is where we deviate from the Whizoo guide. Our oven requires access ports for data cables. To ensure a smooth run for the cable between inside and outside the oven, we use 1/2" copper pipe which was perforated to reduce its thermal mass (we don't want too much loss to escape the interior through the pipe). Large holes had to be drilled/nibbled (using a nibbling tool) in the walls of the oven, through the SRR aluminum plate, and the outer chassis.
+This is where we deviate from the Whizoo guide. Our oven requires access ports for data cables. To ensure a smooth run for the cable between inside and outside the oven, we use 1/2" copper pipe which was perforated to reduce its thermal mass (we don't want too much loss to escape the interior through the pipe). Large holes had to be drilled/nibbled (using a nibbling tool- extremely handy) in the walls of the oven, through the SRR aluminum plate, and the outer chassis. Only one port depicted; the other is simpler as it does not have to pass by any electronics.
 
 
-![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
-![Cont_Mounted](https://github.com/brentlabs/brentlabs/blob/gh-pages/11_cont_mounted.png?raw=true)
+![Pipe](https://github.com/brentlabs/brentlabs/blob/gh-pages/12_pipe.png?raw=true)
 
 ### 11. Ceramic Fiber Insulation 
-Ceramic fiber insulation is wrapped around the outside of the 
+Ceramic fiber insulation was wrapped around the exterior oven walls (before the chassis was put back on). Holes had to be created to accomodate the access port pipes as well as a lead from the top element.
+
+
+![Insul](https://github.com/brentlabs/brentlabs/blob/gh-pages/13_insul.png?raw=true)
+
+### 12. Putting Things Together
+The outer chassis was replaced over the newly insulated oven. The access port pipes were aligned with holes created in the chassis and then sealed using the silicone gasket maker. Sealing them in-place will make troubleshooting/modifying difficult in the future, but it is important that they do not move. 
+
+
+![Port_Sideview](https://github.com/brentlabs/brentlabs/blob/gh-pages/15_port_sideview.png?raw=true)
+
+While the silicone seal cured, the servo motor arm mechanism was installed, as was a latch onto the oven door handle. The motor can be programmed to open the door should cooling be required.
+
+
+![Servo](https://github.com/brentlabs/brentlabs/blob/gh-pages/14_servo.png?raw=true)
+
+### 13. Finished Lab Oven and "Oven Score"
+Some finishing touches included:
+- Fabric gasket was lined around the frame of the oven door to address heat loss in that area.
+- More Reflect-A-Gold tape was used inside the oven, especially on the sidewalls.
+- High temperature flue tape was used around some of the outer edges of the exterior of the oven.
+- Ceramic fiber wool to insulate the access ports.
+
+
+![Final_Build](https://github.com/brentlabs/brentlabs/blob/gh-pages/final_build.png?raw=true)
+
+Once the build guide had been satisfied, the learning cycle was performed to ...
+
+Our oven score:
+
+
+![Oven score](https://github.com/brentlabs/brentlabs/blob/gh-pages/ovenscore.png?raw=true)
 
 ## Characterization
 Characterization of oven performance is done through the software of the Controleo3 itself, and independently using temperature labels distributed throughout the oven.
